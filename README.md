@@ -5,8 +5,8 @@ node-travel-student
 npm install
 
 #Steps to set up git and heroku
-	git config --global user.email "you@example.com"
-	git config --global user.name "Your Name"  
+	git config --global user.email "marcie.chin@vevo.com"
+	git config --global user.name "Marcie Chin"  
 	git config --global credential.helper cache
 	git config --global credential.helper 'cache --timeout=3600' 
 
